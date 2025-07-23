@@ -17,5 +17,9 @@ A particular way of **organizing and storing data** in a computer so that it can
 
 ## 📂 Contents
 
-- 🔹 List  
+- 🔹 List:-
+---  
+Ordered,mutable,allow dupliactions,created using [].
 - 🔹 Tuple
+---
+Ordered indexed and immutable collections that can hold any data type and is enclosed in paranthesis ().
