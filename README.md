@@ -10,3 +10,4 @@ Data Structure❔
 
 ##📂Contents
 ->🔹List
+->🔹Tuple
