@@ -8,7 +8,7 @@
 
 A particular way of **organizing and storing data** in a computer so that it can be accessed and modified efficiently.
 
-- ⭕ **Primitive Data Structures** (built-in)
+- ⭕ **Primitive Data Structures** (built-in) 
 - ⭕ **Non-Primitive Data Structures** (user-defined)
 
 ℹ️ This project is a collection of basic and advanced data structures implemented in Python — perfect for learning and revision.
