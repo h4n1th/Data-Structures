@@ -22,4 +22,4 @@ Ordered,mutable,allow dupliactions,created using [].
 - 🔹 Tuple:-
 Ordered indexed and immutable collections that can hold any data type and is enclosed in paranthesis ().
 - 🔹 String:-
-Sequence of Unicode characters,Immutable and indexed like a list,Created using single ' ' or double " " quotes.
+Sequence of Unicode characters, Immutable and indexed like a list, Created using single ' ' or double " " quotes.
